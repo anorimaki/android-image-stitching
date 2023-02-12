@@ -19,7 +19,7 @@ QUALITY=15
 
 HUGIN_PTO_GEN="flatpak run --command=pto_gen net.sourceforge.Hugin"
 HUGIN_PTO_LENSSTACK="flatpak run --command=pto_lensstack net.sourceforge.Hugin"
-HUGIN_CPFIND="fla# tpak run --command=cpfind net.sourceforge.Hugin"
+HUGIN_CPFIND="flatpak run --command=cpfind net.sourceforge.Hugin"
 HUGIN_CPCLEAN="flatpak run --command=cpclean net.sourceforge.Hugin"
 HUGIN_LINEFIND="flatpak run --command=linefind net.sourceforge.Hugin"
 HUGIN_PTO_VAR="flatpak run --command=pto_var net.sourceforge.Hugin"
